@@ -1,4 +1,4 @@
-import Tombol from "./Tombol";
+import Tombol from "./components/Tombol";
 
 function App(){
     return (
